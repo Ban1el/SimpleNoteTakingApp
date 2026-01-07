@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\models\\dto\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\models\\dto\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\models\\simplenotetakingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\models\\simplenotetakingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\models\\dto\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\models\\dto\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\models\\pageproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\models\\pageproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\models\\pagedatabaseproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\models\\pagedatabaseproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\models\\pagedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\models\\pagedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|c:\\users\\admin\\desktop\\simplenotetakingapp\\api\\api\\migrations\\20260107131050_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472246AE-E0A8-4BEF-B095-3B45A7BFB229}|API\\API.csproj|solutionrelative:api\\migrations\\20260107131050_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:20:11.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Services\\JwtService.cs",
+              "RelativeToolTip": "API\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:52:03.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleNoteTakingContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\SimpleNoteTakingContext.cs",
+              "RelativeDocumentMoniker": "API\\Models\\SimpleNoteTakingContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\SimpleNoteTakingContext.cs",
+              "RelativeToolTip": "API\\Models\\SimpleNoteTakingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:53:51.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\DTO\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\DTO\\LoginResponseModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\DTO\\LoginResponseModel.cs",
+              "RelativeToolTip": "API\\Models\\DTO\\LoginResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:49:39.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\DTO\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\DTO\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\DTO\\LoginRequestModel.cs",
+              "RelativeToolTip": "API\\Models\\DTO\\LoginRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:49:03.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:12:13.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260107131050_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Migrations\\20260107131050_InitialCreate.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20260107131050_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Migrations\\20260107131050_InitialCreate.cs",
+              "RelativeToolTip": "API\\Migrations\\20260107131050_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:10:50.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:05:42.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T13:04:44.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageProperty.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\PageProperty.cs",
+              "RelativeDocumentMoniker": "API\\Models\\PageProperty.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\PageProperty.cs",
+              "RelativeToolTip": "API\\Models\\PageProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:45:34.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageDatabaseProperty.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\PageDatabaseProperty.cs",
+              "RelativeDocumentMoniker": "API\\Models\\PageDatabaseProperty.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\PageDatabaseProperty.cs",
+              "RelativeToolTip": "API\\Models\\PageDatabaseProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:45:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\PageDatabase.cs",
+              "RelativeDocumentMoniker": "API\\Models\\PageDatabase.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\PageDatabase.cs",
+              "RelativeToolTip": "API\\Models\\PageDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:45:23.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\User.cs",
+              "RelativeToolTip": "API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:45:13.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\Page.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Page.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\SimpleNoteTakingApp\\API\\API\\Models\\Page.cs",
+              "RelativeToolTip": "API\\Models\\Page.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:45:12.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
