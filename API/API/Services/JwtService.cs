@@ -1,5 +1,6 @@
 ﻿using API.Models;
 using API.Models.DTO;
+using API.Utilities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -12,6 +13,7 @@ namespace API.Services
     {
         private readonly SimpleNoteTakingContext _dbContext;
         private readonly IConfiguration _configuration;
+        private CryptoUtils _crypto = new CryptoUtils();
 
         public JwtService(SimpleNoteTakingContext dbContext, IConfiguration configuration)
         {
@@ -25,7 +27,7 @@ namespace API.Services
                 return null;
 
             var userAccount = await _dbContext.Users.FirstOrDefaultAsync(x => x.UserName == request.Username);
-            if (userAccount is null || userAccount.Password == request.Password)
+            if (userAccount is null || !_crypto.VerifyHash(request.Password, userAccount.Password))
                 return null;
 
             var issuer = _configuration["JwtConfig:Issuer"];

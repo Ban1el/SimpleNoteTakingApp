@@ -14,8 +14,8 @@ namespace API.Controllers
         public AccountController(JwtService jwtService) => _jwtService = jwtService;
 
         [AllowAnonymous]
-        [HttpPost("Login")]
-        public async Task<ActionResult<LoginResponseModel>> Login(LoginRequestModel request)
+        [HttpPost("login")]
+        public async Task<ActionResult<LoginResponseModel>> Login([FromBody] LoginRequestModel request)
         {
             var result = await _jwtService.Authenticate(request);
             if (result is null)
