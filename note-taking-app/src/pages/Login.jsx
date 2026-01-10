@@ -1,7 +1,9 @@
 import { useState } from "react";
 import { login } from "../api/auth.api";
+import { useNavigate } from "react-router-dom";
 
 function Login() {
+  const navigate = useNavigate();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
 
@@ -9,6 +11,7 @@ function Login() {
     try {
       const res = await login(username, password);
       localStorage.setItem("token", res.accessToken);
+      navigate("/", { replace: true });
     } catch (err) {
       console.error(err);
     }
