@@ -20,15 +20,35 @@ public static class SeedData
                 return;   // DB has been seeded
             }
 
-            context.Users.AddRange(
-                new User
+            using var transaction = context.Database.BeginTransaction();
+
+            try
+            {
+                var adminUser = new User
                 {
                     UserName = "admin",
-                    Password = "1DD358241539FB310793CC50E2EE4CD0ABAC6DE85D3FD561ACB36B14BE498B40-81E65A843F7C613A4642374B627F0371", //admin@123
+                    Password = "1DD358241539FB310793CC50E2EE4CD0ABAC6DE85D3FD561ACB36B14BE498B40-81E65A843F7C613A4642374B627F0371",
                     DateCreated = DateTime.UtcNow
-                }
-            ); 
-            context.SaveChanges();
+                };
+
+                context.Users.Add(adminUser);
+                context.SaveChanges(); // UserID generated
+
+                context.PageDatabases.Add(new PageDatabase
+                {
+                    UserID = adminUser.UserID,
+                    DateCreated = DateTime.UtcNow
+                });
+
+                context.SaveChanges();
+
+                transaction.Commit();
+            }
+            catch
+            {
+                transaction.Rollback();
+                throw;
+            }
         }
     }
 }

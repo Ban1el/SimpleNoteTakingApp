@@ -56,7 +56,7 @@ namespace API.Services
             {
                 AccessToken = accessToken,
                 Username = request.Username,
-                ExpiresIn = (int)tokenExpiryTimeStamp.Subtract(DateTime.UtcNow).TotalNanoseconds
+                ExpiresIn = (int)tokenExpiryTimeStamp.Subtract(DateTime.UtcNow).TotalSeconds
             };
         }
     }
