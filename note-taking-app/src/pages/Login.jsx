@@ -10,7 +10,7 @@ function Login() {
   const handleLogin = async () => {
     try {
       const res = await login(username, password);
-      localStorage.setItem("token", res.accessToken);
+      localStorage.setItem("token", res.data.accessToken);
       navigate("/", { replace: true });
     } catch (err) {
       console.error(err);
